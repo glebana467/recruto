@@ -1,4 +1,5 @@
 { "type": "module",
+  "start": "yarn start",
   "dependencies": {
     "express": "^4.21.0"
   }
